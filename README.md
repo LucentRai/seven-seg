@@ -1,4 +1,4 @@
 # seven-seg
-7-segment style ASCII wordart generator
-![image](https://user-images.githubusercontent.com/20392986/158002753-9c52aa96-b91d-4626-8c4e-8c778d7e0052.png)
-![image](https://user-images.githubusercontent.com/20392986/158002767-4ac35ed3-817d-45b0-a722-074b49a5ac50.png)
+7-segment style ASCII wordart generator <br>
+![image](https://user-images.githubusercontent.com/20392986/158002838-23f5cca4-2aae-406c-ad14-7288ccad3160.png)
+![image](https://user-images.githubusercontent.com/20392986/158002852-7573075a-5638-4189-95c2-5f59f0cc43d2.png)
